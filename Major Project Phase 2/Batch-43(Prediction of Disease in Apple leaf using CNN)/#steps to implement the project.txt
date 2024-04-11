@@ -1,0 +1,20 @@
+#steps to implement the project
+
+step 1: Go to project file location named as code folder and copy the path of that location.
+
+step 2: Now open Anaconda prompt and type cd space and paste the path we've copied and hit enter. 
+
+step 3: Now type Python app.py to run the file on the computer's local server which will generate an ip address (eg: http://127.0.0.1:5000)
+
+step 4: Copy the generated IP address and paste it on any web browser.
+
+step 5: A homepage will open after pasting the IP address.
+
+step 6: Click on signup  or signin at the top right corner and enter the login details.
+
+step 7: Click on classification and choose the file to upload one diseased image of an apple out of four labels such as Apple scab, apple rust, powdery and healthy.
+
+step 8: Click on upload.
+
+step 9: Based on the training dataset and the image we upload it will give the results as which type of disease it have.
+
